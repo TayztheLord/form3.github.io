@@ -7,7 +7,7 @@ Enter Password:
 <input type="text" name="username": size="30"
 maxlength="28" /><br /><br />
 
-<h2>Type your comments here:</h2>
+<h2> Type your comments here:</h2>
 <textarea name="hello" rows="10" cols="25">
 Your comments here.</textarea><br />
 

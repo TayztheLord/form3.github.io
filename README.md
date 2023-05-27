@@ -9,7 +9,7 @@ maxlength="28" /><br /><br />
 
 <h2> Type your comments here:</h2>
 
-Your comments here.</textarea><br />
+Your comments here. </textarea><br />
 
 <br>Your Favorite Sports:<br />
 <input type="checkbox" name="Volleyball" checked="checked" />Volleyball <br />
